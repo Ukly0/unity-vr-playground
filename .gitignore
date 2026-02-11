@@ -26,6 +26,8 @@
 *.svd
 *.pdb
 *.mdb
+*.jpg
+*.mp4
 
 # Unity cache / package manager cache
 # (Unity 2020+ suele regenerarlo)
